@@ -5,11 +5,11 @@ Detect fraudulent credit card transactions using machine learning with SMOTE, XG
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Source: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - 284,807 transactions
@@ -17,7 +17,7 @@ Detect fraudulent credit card transactions using machine learning with SMOTE, XG
 
 ---
 
-## 🧠 Features
+##  Features
 
 - SMOTE oversampling to fix class imbalance
 - Models used:
@@ -29,7 +29,7 @@ Detect fraudulent credit card transactions using machine learning with SMOTE, XG
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repo:
    ```bash
