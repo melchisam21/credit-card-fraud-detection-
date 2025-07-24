@@ -1,5 +1,4 @@
 # credit-card-fraud-detection-
-#  Credit Card Fraud Detection
 
 Detect fraudulent credit card transactions using machine learning with SMOTE, XGBoost, and SHAP explainability.
 
